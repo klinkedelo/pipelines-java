@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/klinketim/DevOps-Handson-Azure/_apis/build/status/klinkedelo.pipelines-java?branchName=master)](https://dev.azure.com/klinketim/DevOps-Handson-Azure/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
