@@ -1,6 +1,6 @@
 import com.microsoft.demo.Demo;
 import org.junit.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assertions.assertEquals;
 
 public class MyTest {
     @Test
