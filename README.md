@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/klinketim/DevOps-Handson-Azure/_apis/build/status/klinkedelo.pipelines-java?branchName=master)](https://dev.azure.com/klinketim/DevOps-Handson-Azure/_build/latest?definitionId=2&branchName=master)
+
+[![Build Status](https://dev.azure.com/klinketim/Create%20your%20first%20pipeline%20-%20Microsoft/_apis/build/status/klinkedelo.pipelines-java?branchName=master)](https://dev.azure.com/klinketim/Create%20your%20first%20pipeline%20-%20Microsoft/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
